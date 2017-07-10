@@ -8,7 +8,6 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>toss-mvc-archetype</artifactId>
     <packaging>war</packaging>
-    <name>使用maven archetype的springmvc项目</name>
 
     <properties>
         <spring.version>4.3.8.RELEASE</spring.version>

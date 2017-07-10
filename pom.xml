@@ -12,7 +12,6 @@
     <modules>
         <module>toss-javaweb</module>
         <module>toss-mvc-archetype</module>
-        <module>toss-mvc-noarchetype</module>
         <module>toss-mvc-without-archetype</module>
     </modules>
 

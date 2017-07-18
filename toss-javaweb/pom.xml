@@ -17,7 +17,5 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-    <build>
-        <finalName>toss-javaweb</finalName>
-    </build>
+
 </project>

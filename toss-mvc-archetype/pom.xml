@@ -74,7 +74,5 @@
         </dependency>
     </dependencies>
 
-    <build>
-        <finalName>toss-mvc-archetype</finalName>
-    </build>
+
 </project>

@@ -13,6 +13,7 @@
         <module>toss-javaweb</module>
         <module>toss-mvc-archetype</module>
         <module>toss-mvc-without-archetype</module>
+        <module>toss-sm-archetype</module>
     </modules>
 
 

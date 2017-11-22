@@ -13,6 +13,7 @@
         <module>toss-mvc-without-archetype</module>
         <module>toss-sm-archetype</module>
         <module>toss-algorithms</module>
+        <module>toss-jooq</module>
     </modules>
 
 
